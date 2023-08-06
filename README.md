@@ -16,7 +16,7 @@ $ cd macos/
 $ ./build.sh
 ```
 
-## Linux
+## Linux xx
 
 **in development - currently testing only**
 
